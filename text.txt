@@ -1,0 +1,1 @@
+Git : Uygulama geliştirme aşamalarında sürüm kontrollerini yapmak, süreci takip etmek, ortak projelerden görev paylaşımını düzenli ve koordineli devam ettirmek için kullanılan bir sistemdir.

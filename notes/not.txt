@@ -1,0 +1,1 @@
+Gitignore dosyasında olduğu için değişiklikler ihmal edilecek.
